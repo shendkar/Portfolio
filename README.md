@@ -3,10 +3,7 @@
 
 Welcome to my personal portfolio website! This responsive and modern portfolio is designed using **HTML** and **Tailwind CSS**, featuring sections like Home, About Me, Projects, Resume, and Contact.
 
-## 🔮 Live Preview
-[Add your live portfolio link here]
 
----
 
 ## 🚀 Features
 
@@ -30,11 +27,17 @@ Welcome to my personal portfolio website! This responsive and modern portfolio i
 
 ## 📁 Folder Structure
 
-/project-root
+portfolio-website/
 │
-├── index.html # Main HTML file
-├── /images/ # Contains all image assets (profile, projects)
-│ ├── profile.jpeg
-│ ├── recognition.png
-│ ├── liftup.jpeg
-│ └── ...
+├── index.html                  # Main HTML file with all sections
+├── README.md                   # Project documentation
+├── your_resume.pdf             # Your downloadable resume file
+│
+├── /images/                    # All images (profile + project screenshots)
+│   ├── profile.jpeg
+│   ├── recognition.png
+│   ├── liftup.jpeg
+│   ├── fitness.jpg
+│   └── ... (any other assets)
+│
+
