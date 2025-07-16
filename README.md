@@ -25,19 +25,5 @@ Welcome to my personal portfolio website! This responsive and modern portfolio i
 
 ---
 
-## 📁 Folder Structure
 
-portfolio-website/
-│
-├── index.html                  # Main HTML file with all sections
-├── README.md                   # Project documentation
-├── your_resume.pdf             # Your downloadable resume file
-│
-├── /images/                    # All images (profile + project screenshots)
-│   ├── profile.jpeg
-│   ├── recognition.png
-│   ├── liftup.jpeg
-│   ├── fitness.jpg
-│   └── ... (any other assets)
-│
 
