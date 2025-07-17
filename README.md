@@ -16,7 +16,7 @@ Welcome to my personal portfolio website! This responsive and modern portfolio i
 - 🌙 Dark-themed aesthetic with a touch of purple for elegance
 
   ## 🔮 Live Preview
-[Add your live portfolio link here]
+https://shendkar.github.io/Portfolio/
 
 ---
 
