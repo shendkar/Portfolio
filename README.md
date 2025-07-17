@@ -22,9 +22,15 @@ https://shendkar.github.io/Portfolio/
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **Tailwind CSS 3**
+- **HTML**
+- **Tailwind CSS**
 - **Responsive Design**
 - Optional: JS for effects, transitions
 
----
+  ## Project Preview
+  ![Portfolio Homepage](./images/ss1.PNG)
+  ![Portfolio Aboutpage](./images/ss2.PNG)
+  ![Portfolio Projectpage](./images/ss3.PNG)
+  ![PortfolioContactUs](./images/ss4.PNG)
+  
+
